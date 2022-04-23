@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family=Aref+Ruqaa:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Chivo:wght@300;700;900&display=swap');
+
+body{
+    margin: 0;
+    background-color: #FFFFFF;
+}
+*{
+    box-sizing: border-box;
+}
+#cajacabecera{
+    width: 100%;
+    background: #156368;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+}
+#cabecera{
+    width: 100%;
+    max-width: 1100px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+#Logo{
+    width: 17%;
+    padding: 4px 0;
+    margin-right: 110px;
+}
