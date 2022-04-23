@@ -11,9 +11,12 @@ body{
 #cajacabecera{
     width: 100%;
 
+    background: #868520;
+
     background: #156368;
 
     background: #684815;
+
 
     position: fixed;
     left: 0;
