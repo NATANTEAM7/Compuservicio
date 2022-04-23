@@ -3,7 +3,7 @@
 
 body{
     margin: 0;
-    background-color: #FFFFFF;
+    background-color: blue;
 }
 *{
     box-sizing: border-box;
@@ -36,4 +36,3 @@ body{
     padding: 4px 0;
     margin-right: 110px;
 }
-git
