@@ -3,14 +3,21 @@
 
 body{
     margin: 0;
-    background-color: #FFFFFF;
+    background-color: violet;
 }
 *{
     box-sizing: border-box;
 }
 #cajacabecera{
     width: 100%;
+
     background: #868520;
+
+    background: #156368;
+
+    background: #684815;
+
+
     position: fixed;
     left: 0;
     top: 0;
@@ -23,8 +30,12 @@ body{
     align-items: center;
     margin: auto;
 }
-#Logo{
+
+#Logo
     width: 17%;
+#logo{
+    width: 10%;
+
     padding: 4px 0;
     margin-right: 110px;
 }
